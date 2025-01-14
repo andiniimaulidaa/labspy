@@ -1,64 +1,34 @@
-# labspy07
+Nama : Andin maulida 
 
-Praktikum7 Tugas Praktikum 7 Mata Kuliah Program Komputer dan Praktek
+Kelas : IE.23.C12
 
-Andini maulida IE.23.C12/ 352310851
+NIM : 352310851
 
-Ringkasan Fungsi Program
+Tugas Praktikum pertemuan 14
 
-Kode program ini dirancang untuk mengelola data mahasiswa secara interaktif. Program ini memungkinkan pengguna untuk:
+Mata Kuliah Program Komputer dan Praktek
 
-Menambahkan data mahasiswa baru: Memasukkan nama, NIM, nilai tugas, UTS, dan UAS.
+LATIHAN 1
 
-Mengubah data mahasiswa: Memperbarui data mahasiswa yang sudah ada berdasarkan NIM.
+Latihan 1: Manipulasi String
 
-Menghapus data mahasiswa: Menghapus data mahasiswa berdasarkan NIM.
+Latihan ini bertujuan untuk melatih dalam memanipulasi teks (string) dalam bahasa pemrograman. Konsep-konsep yang akan Anda pelajari antara lain:
 
-Menampilkan semua data mahasiswa: Menampilkan daftar lengkap semua mahasiswa beserta nilai-nilainya.
+Hitung jumlah karakter: Menghitung berapa banyak karakter dalam sebuah string.
 
-Mencari data mahasiswa: Menampilkan data mahasiswa berdasarkan NIM yang dicari.
+Ambil karakter tertentu: Mengambil karakter pada indeks tertentu dalam sebuah string.
 
-Struktur Data
+Hilangkan spasi: Menghapus semua spasi dalam sebuah string.
 
-Kode ini menggunakan struktur data list untuk menyimpan data mahasiswa.
+Ubah huruf: Mengubah semua huruf menjadi huruf besar atau kecil.
 
-Setiap elemen dalam list adalah sebuah dictionary yang merepresentasikan data seorang mahasiswa.
+Ganti karakter: Mengganti suatu karakter dengan karakter lain
 
-Dictionary ini memiliki key-value pairs seperti:
+Penggunaan coding :
 
-Nama: Menyimpan nama mahasiswa sebagai string.
+![image](https://github.com/user-attachments/assets/e009c811-6f1b-4b5e-a4fd-9e5f679af69f)
 
-NIM: Menyimpan nomor induk mahasiswa sebagai string.
-
-Nilai Tugas, Nilai UTS, Nilai UAS: Menyimpan nilai-nilai numerik masing-masing komponen penilaian.
-
-Nilai Akhir: Menyimpan nilai akhir yang dihitung berdasarkan bobot.
-
-Alur Program
-
---> Inisialisasi: Membuat list kosong mahasiswa untuk menyimpan data mahasiswa.
-
-Menu Utama:
-
-Program menampilkan menu interaktif yang memberikan pilihan kepada pengguna untuk menambah, mengubah, menghapus, menampilkan, atau mencari data mahasiswa.
-
-Pilihan Menu:
-
-Tambah Data: Meminta pengguna memasukkan data mahasiswa baru dan menambahkannya ke dalam list mahasiswa.
-
-Ubah Data: Meminta pengguna memasukkan NIM mahasiswa yang ingin diubah, kemudian memperbarui data mahasiswa tersebut.
-
-Hapus Data: Meminta pengguna memasukkan NIM mahasiswa yang ingin dihapus, kemudian menghapus data tersebut dari list mahasiswa.
-
-Tampilkan Data: Menampilkan semua data mahasiswa dalam format tabel.
-
-Cari Data: Meminta pengguna memasukkan NIM yang ingin dicari, kemudian menampilkan data mahasiswa yang sesuai.
-
-KODE PROGRAM
-
- ![image](https://github.com/user-attachments/assets/1f2e4ea0-c34a-45d2-9d83-04b889389701)
-
- LATIHAN 2
+LATIHAN 2
 
 Latihan ini mengajarkan cara menyisipkan nilai variabel ke dalam sebuah string menggunakan metode format().
 
@@ -66,7 +36,7 @@ Ini berguna untuk membuat teks yang lebih dinamis.
 
 Penggunaan coding :
 
-![image](https://github.com/user-attachments/assets/52433edf-1462-4a5e-b83b-7aea566c49fe)
+![image](https://github.com/user-attachments/assets/6b2597b5-0ae6-423e-88c4-c60e57e6110f)
 
 LATIHAN 3
 
@@ -84,13 +54,10 @@ Kondisi bersyarat: Menggunakan struktur if-else untuk memeriksa kondisi tertentu
 
 penggunaan coding :
 
-![image](https://github.com/user-attachments/assets/f5b6afe8-c283-4c51-88e8-964816e57b45)
-
+![image](https://github.com/user-attachments/assets/dd4bc522-7bd9-4361-b09d-be2c28325785)
 
 HASIL LATIHAN 1 DAN 2
 
-![image](https://github.com/user-attachments/assets/a610ef0c-4ad7-4a8a-bf01-89d3af61bc1a)
+![image](https://github.com/user-attachments/assets/f1e0343d-875e-49db-815f-171ddd8cd1d6)
 
-HASIL LATIHAN 3 (STUDI KASUS)
 
-![image](https://github.com/user-attachments/assets/95a7f820-1872-4541-8ffc-7549dd2119eb)
